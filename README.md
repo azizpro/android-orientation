@@ -215,3 +215,4 @@ android layout orientation for beginners
 ##### Step 6: Run app on your device. Voila! It's working!
 
 ### NB: Make sure your device orientation is set to auto.
+
